@@ -70,8 +70,6 @@ Documentation & reporting
 
 Files Included 
 
-Security Audit Report 
-
-Controls & Compliance Checklist 
+Security Audit Report  
 
 Risk Assessment Summary 
